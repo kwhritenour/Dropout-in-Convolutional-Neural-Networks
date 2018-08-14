@@ -1,0 +1,2 @@
+# Dropout-in-Convolutional-Neural-Networks
+Dropout is found to be ineffective when used in conjunction with convolutional layers despite the fact that Convolutional neural networks (CNNs), while powerful with large datasets, are very prone to overfitting when trained on smaller datasets. This work aims to implement a modified version of the Dropout layer with continuous relaxation of dropout weights with increase in depth of the network and variant dropout weights for different neurons to be implemented after each Convolutional layer in order to stay overfitting in CNNs.
